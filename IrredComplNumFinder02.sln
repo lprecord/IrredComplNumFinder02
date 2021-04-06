@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrredComplNumFinder02", "IrredComplNumFinder02\IrredComplNumFinder02.csproj", "{D0AD72B5-DA74-4F79-AE31-1BD2262C2F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AD72B5-DA74-4F79-AE31-1BD2262C2F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AD72B5-DA74-4F79-AE31-1BD2262C2F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AD72B5-DA74-4F79-AE31-1BD2262C2F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AD72B5-DA74-4F79-AE31-1BD2262C2F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E7FD66-66D9-447D-8183-A6838E937D78}
+	EndGlobalSection
+EndGlobal
